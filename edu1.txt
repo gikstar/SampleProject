@@ -1,1 +1,3 @@
 This is something to show git activity.
+
+after adding
